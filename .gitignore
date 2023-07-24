@@ -1,4 +1,5 @@
 *.log
+*.xlsx
 __pycache__/run.cpython-38.pyc
 output/*
 sevt.py
